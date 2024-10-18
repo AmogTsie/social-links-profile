@@ -80,4 +80,12 @@ main{
     position: absolute;
     left: 0%;
     width: 100%;
+}*/
+
+@media only screen and (max-width:770px){
+    .container{
+        width: 50vh;
+        height: 85vh;
+        border-radius: 20px;
+    }
 }
