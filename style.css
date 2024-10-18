@@ -68,19 +68,11 @@ main{
     padding: 10px 20px;
     margin: 10px;
     border-radius: 7px;
-    /*border-width: 15px;
-    margin-bottom: 10px;*/
 }
 .links ul a:hover{
    color: hsl(75, 94%, 57%);
 }
 
-/*.links ul a::before{
-    content: "";
-    position: absolute;
-    left: 0%;
-    width: 100%;
-}*/
 
 @media only screen and (max-width:770px){
     .container{
